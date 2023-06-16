@@ -69,7 +69,7 @@ Follow these instructions to set up and run the project on your local machine.
    
 ## Configuration
 
-The project's configuration is managed through the 'application.yml' file. It contains the server port and file paths for generating and reading QR codes. You can modify these settings to suit your environment.
+The project's configuration is managed through the `application.yml` file. It contains the server port and file paths for generating and reading QR codes. You can modify these settings to suit your environment.
    
    
 ## License
