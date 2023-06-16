@@ -75,10 +75,6 @@ The project's configuration is managed through the `application.yml` file. It co
 
 Contributions are welcome! If you have any ideas, improvements, or bug fixes, please open an issue or submit a pull request.
    
-## License
-
-This project is licensed under the [MIT License](LICENSE). You can find the full text of the license [here](https://opensource.org/licenses/MIT).
-
 
 ## Acknowledgments
 
