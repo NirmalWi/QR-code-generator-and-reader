@@ -62,7 +62,7 @@ Follow these instructions to set up and run the project on your local machine.
 - To generate a QR code: http://localhost:8081/api/qr/gen
 - To read a QR code: http://localhost:8081/api/qr/read
    
-3. The generated QR code image will be saved to the specified file path (`file-path` in the [`application.yml`](application.yml) configuration file).
+3. The generated QR code image will be saved to the specified file path (`file-path` in the [`application.yml`](src/main/resources/application.yml) configuration file).
 
 4. The decoded text from the QR code will be printed in the console and returned as the response.
    
