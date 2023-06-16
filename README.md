@@ -1,6 +1,6 @@
 # QR Code Generator and Reader
 
-![QR Code Generator and Reader](qr-code.png)
+![QR Code Generator and Reader](QR_code.png)
 
 This project is a Java Spring Boot application that provides functionalities for generating and reading QR codes. It uses the Google ZXing library for QR code encoding and decoding.
 
