@@ -45,6 +45,11 @@ Follow these instructions to set up and run the project on your local machine.
    ```shell
    cd qr-code-generator-reader
    
+   2. Build the project using Maven:
+
+   ```shell
+   mvn clean install
+   
    
 ### Usage
 
