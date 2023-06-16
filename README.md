@@ -78,7 +78,7 @@ The project's configuration is managed through the 'application.yml' file. It co
 This project is licensed under the [MIT License](LICENSE). You can find the full text of the license [here](https://opensource.org/licenses/MIT).
 
 
-### Acknowledgments
+## Acknowledgments
 
 - [Google ZXing](https://github.com/zxing/zxing) - Library used for QR code encoding and decoding.
 - [OpenCV](https://opencv.org/) - Computer vision library used for image processing.
