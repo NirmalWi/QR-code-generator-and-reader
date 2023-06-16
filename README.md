@@ -38,8 +38,8 @@ Follow these instructions to set up and run the project on your local machine.
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/qr-code-generator-reader.git
-
+   git clone https://github.com/NirmalWi/QR-code-generator-and-reader.git
+   
 2. Navigate to the project directory:
 
    ```shell
@@ -49,7 +49,7 @@ Follow these instructions to set up and run the project on your local machine.
 
    ```shell
    mvn clean install
-   
+
 
 ### Usage
 
@@ -60,8 +60,8 @@ Follow these instructions to set up and run the project on your local machine.
 
 2. Open your web browser or use a REST client to access the following endpoints:
 
-   To generate a QR code: GET 'http://localhost:8081/api/qr/gen'
-   To read a QR code: GET 'http://localhost:8081/api/qr/read'
+   -To generate a QR code: GET 'http://localhost:8081/api/qr/gen' 
+   -To read a QR code: GET 'http://localhost:8081/api/qr/read'
    
 3. The generated QR code image will be saved to the specified file path ('file-path' in the 'application.yml' configuration file).
 
