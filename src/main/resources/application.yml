@@ -1,0 +1,7 @@
+#server:
+#  port : 8081
+
+location:
+  file-path: ${file-path:C:\Users\Nirmalw\Desktop\QR_project\r-d\}
+  image-path: ${image-path:C:\Users\Nirmalw\Desktop\QR_project\r-d\logo.png}
+
