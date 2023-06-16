@@ -73,12 +73,12 @@ Follow these instructions to set up and run the project on your local machine.
 The project's configuration is managed through the 'application.yml' file. It contains the server port and file paths for generating and reading QR codes. You can modify these settings to suit your environment.
    
    
-## License
+### License
 
 This project is licensed under the [MIT License](LICENSE). You can find the full text of the license [here](https://opensource.org/licenses/MIT).
 
 
-## Acknowledgments
+### Acknowledgments
 
 - [Google ZXing](https://github.com/zxing/zxing) - Library used for QR code encoding and decoding.
 - [OpenCV](https://opencv.org/) - Computer vision library used for image processing.
