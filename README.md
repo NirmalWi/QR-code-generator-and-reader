@@ -74,6 +74,10 @@ The project's configuration is managed through the `application.yml` file. It co
 ## Contributing
 
 Contributions are welcome! If you have any ideas, improvements, or bug fixes, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the Apache License, Version 2.0. See the [LICENSE](LICENSE) file for details.
    
 
 ## Acknowledgments
