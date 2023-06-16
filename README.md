@@ -50,7 +50,6 @@ Follow these instructions to set up and run the project on your local machine.
    ```shell
    mvn clean install
 
-
 ### Usage
 
 1. Start the Spring Boot application:
