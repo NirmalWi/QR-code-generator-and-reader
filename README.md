@@ -45,11 +45,6 @@ Follow these instructions to set up and run the project on your local machine.
    ```shell
    cd qr-code-generator-reader
    
-3.Build the project using Maven:
-
-   ```shell
-   mvn clean install
-   
    
 ### Usage
 
@@ -68,12 +63,12 @@ Follow these instructions to set up and run the project on your local machine.
 4. The decoded text from the QR code will be printed in the console and returned as the response.
    
    
-### Configuration
+## Configuration
 
 The project's configuration is managed through the 'application.yml' file. It contains the server port and file paths for generating and reading QR codes. You can modify these settings to suit your environment.
    
    
-### License
+## License
 
 This project is licensed under the [MIT License](LICENSE). You can find the full text of the license [here](https://opensource.org/licenses/MIT).
 
