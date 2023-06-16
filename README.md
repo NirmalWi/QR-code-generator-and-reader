@@ -71,6 +71,9 @@ Follow these instructions to set up and run the project on your local machine.
 
 The project's configuration is managed through the `application.yml` file. It contains the server port and file paths for generating and reading QR codes. You can modify these settings to suit your environment.
    
+## Contributing
+
+Contributions are welcome! If you have any ideas, improvements, or bug fixes, please open an issue or submit a pull request.
    
 ## License
 
@@ -83,3 +86,12 @@ This project is licensed under the [MIT License](LICENSE). You can find the full
 - [OpenCV](https://opencv.org/) - Computer vision library used for image processing.
 - [QRGen](https://github.com/kenglxn/QRGen) - Library used for generating QR codes.
 - [Spring Boot](https://spring.io/projects/spring-boot) - Framework used for developing the Java Spring Boot application.
+
+
+
+## Contact
+
+For any inquiries or feedback, please contact:
+
+Nirmal Widanage
+Email: nirmalW@mitesp.com
